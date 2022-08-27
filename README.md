@@ -4,4 +4,4 @@
 * Generates random meal.
 
 Demo:
-https://https://verma10himanshu.github.io/
+https://https://verma10himanshu.github.io
